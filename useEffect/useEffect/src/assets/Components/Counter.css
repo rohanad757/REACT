@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+    color: whitesmoke;
+    box-sizing: border-box;
+}
+.container{
+    box-sizing: border-box;
+    width:max-content;
+    height:max-content;
+    margin: 0px auto;
+}
+.but{
+    margin: 0px auto;
+}
+button{
+    background-color:blueviolet;
+    width: 8vw;
+    height: 4vh;
+    border-radius: 6px;
+}
+.clas{
+    margin-left: 4vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
